@@ -1,4 +1,5 @@
 #!/bin/bash
+# sudo pacman -S xorg-xrandr
 
 echo "Enter a value for brightness in the form 0.n:"
 read n

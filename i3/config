@@ -236,3 +236,7 @@ bar {
 default_border pixel
 #default_border normal
 #default_border none
+
+# change alacritty's theme
+bindsym $mod+Shift+p exec $HOME/.config/alacritty/theme_up.sh
+bindsym $mod+Shift+n exec $HOME/.config/alacritty/theme_down.sh

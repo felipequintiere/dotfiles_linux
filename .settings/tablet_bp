@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://wiki.archlinux.org/title/Graphics_tablet
-# sudo pacman -S x86-input-wacom
+# sudo pacman -S xf86-input-wacom
 # sudo pacman -S usbutils
 # sudo pacman -S xorg-xev
 
